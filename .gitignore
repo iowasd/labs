@@ -1,0 +1,6 @@
+target/
+**/CPP/dbms
+*.exe
+*.obj
+*.data
+out*.txt
